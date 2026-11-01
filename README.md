@@ -1,5 +1,9 @@
-# Olee QEMU
+#  Olee
 
-Pacote do QEMU personalizado para Termux.
+Olee Nan-qemu é um pacote que reúne ferramentas GNU Nano e QEMU para Termux.
 
-Desenvolvido por Tarzarov588.
+Desenvolvedor: Tarzarov588
+
+Plataforma: Termux
+
+Formato: DEB
