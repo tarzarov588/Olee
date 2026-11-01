@@ -1,0 +1,8 @@
+Package: olee-nan-qemu
+Version: 1.0.0
+Architecture: aarch64
+Maintainer: Tarzarov588
+Section: utils
+Priority: optional
+Depends: nano, qemu-system-aarch64
+Description: Olee Nan-qemu - GNU Nano and QEMU for Termux.
