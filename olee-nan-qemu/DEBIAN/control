@@ -4,5 +4,5 @@ Architecture: aarch64
 Maintainer: Tarzarov588
 Section: utils
 Priority: optional
-Depends: nano, x11-repo, qemu-system-aarch64
-Description: Olee Nan-qemu - GNU Nano and QEMU for Termux.
+Depends: nano, qemu-system-aarch64
+Description: Olee Nan-qemu - GNU Nano and graphical QEMU for Termux.
